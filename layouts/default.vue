@@ -7,3 +7,8 @@
     <Background class="absolute top-0 left-0 pointer-events-none"></Background>
   </div>
 </template>
+<script setup lang="ts">
+definePageMeta({
+  layout: 'home',
+})
+</script>
