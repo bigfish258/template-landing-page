@@ -1,13 +1,13 @@
 <script setup lang="ts">
   const online = useOnline()
   useSeoMeta({
-    title: 'template-landing-page',
-    description: 'template nuxt3 is a usage tool for create nuxt3 project',
+    title: 'Dream AI',
+    description: 'Unleashing the Power of Artificial Intelligence to Transform Your Digital Experience',
   })
 
   defineOgImage({
-    title: 'template-landing-page',
-    description: 'template nuxt3 is a usage tool for create nuxt3 project',
+    title: 'Dream AI',
+    description: 'Revolutionizing the Web with Cutting-Edge AI Solutions, Offering Unparalleled User Experiences and Smart, Data-Driven Insights for a Smarter Digital Future',
   })
 </script>
 
