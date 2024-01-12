@@ -1,5 +1,5 @@
-export const SiteName = 'uShare'
+export const SiteName = 'DreamAI'
 export const SiteDescription =
-  'Build beautiful sharing cards to spread your content wider'
+  'Unleashing the Power of Artificial Intelligence to Transform Your Digital Experience'
 export const SiteIntro =
-  'Generate beautiful sharing cards on different devices, supporting code, text, and even markdown'
+  'Revolutionizing the Web with Cutting-Edge AI Solutions, Offering Unparalleled User Experiences and Smart, Data-Driven Insights for a Smarter Digital Future'
